@@ -1,0 +1,8 @@
+{
+  "id": "sample.echo",
+  "name": "Sample Echo Plugin",
+  "version": "0.1.0",
+  "entrypoint": "echo_plugin.py",
+  "permissions": ["none"],
+  "description": "A minimal sample plugin that echoes input back as JSON."
+}
