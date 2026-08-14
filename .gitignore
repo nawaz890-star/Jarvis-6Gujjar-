@@ -1,0 +1,34 @@
+# Byte-compiled / caches
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+env/
+*.venv
+
+# Editor files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# System files
+Thumbs.db
+Desktop.ini
+
+# Log and DB
+*.log
+calendar.db
+
+# dotenv secrets
+.env
+
+# Build artifacts
+dist/
+build/
+*.spec
+
+# VOSK model (if added later)
+model/
