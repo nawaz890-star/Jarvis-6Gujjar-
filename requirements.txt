@@ -1,0 +1,12 @@
+# Phase 7 GUI requires PySide6. PySide6 provides modern Qt bindings and is
+# used to create the desktop interface with responsiveness and native look.
+# Install only if you intend to run the GUI.
+PySide6>=6.6.0
+python-dotenv>=1.0.0
+pytest>=7.0.0
+typing-extensions>=4.0.0
+requests>=2.28.0
+psutil>=5.9.5
+beautifulsoup4>=4.12.0
+feedparser>=6.0.10
+python-dateutil>=2.8.2
